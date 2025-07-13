@@ -1,37 +1,37 @@
-export const aboutUs =
-	'At ReDrobe, every piece is carefully curated to reflect the style of the creators you love - not just to match your vibe, but to make fashion more mindful.'
+export const aboutUs = `At ReDrobe, every piece is carefully curated to reflect the style of the creators you love - not just to match your vibe, but to make fashion more mindful.`;
+export const aboutUs_1 = `At ReDrobe, we source you apparel directly from the creator's wardrobe to yours.`;
 
 export const aboutUs_2 =
-	'We’re not just a marketplace. We’re building a platform where creators and their communities can connect through pieces that carry real moments, energy, and style.'
+  "We’re not just a marketplace. We’re building a platform where creators and their communities can connect through pieces that carry real moments, energy, and style.";
 
 export const aboutUs_3 =
-	'Something bold is coming. Be the first to know.\
-  Join our waitlist and step into the future of fashion.'
+  "Something bold is coming. Be the first to know.\
+  Join our waitlist and step into the future of fashion.";
 
 export const flinks = [
-	// { header: 'help and support', links: ['help', 'queries', 'team'] },
-//	{ header: 'about', links: ['about us', 'Features', 'Regiser/Join waitlist'] },
-	{ header: 'shopping from', links: ['india'] },
-]
+  // { header: 'help and support', links: ['help', 'queries', 'team'] },
+  //	{ header: 'about', links: ['about us', 'Features', 'Regiser/Join waitlist'] },
+  { header: "shopping from", links: ["india"] },
+];
 
 export const paymentIcons = [
-	{
-		icon: 'visa.png',
-		link: '',
-	},
-	{
-		icon: 'master-card.png',
-		link: '',
-	},
-	{
-		icon: 'paypal.png',
-		link: '',
-	},
-	{
-		icon: 'american-express.png',
-		link: '',
-	},
-]
+  {
+    icon: "visa.png",
+    link: "",
+  },
+  {
+    icon: "master-card.png",
+    link: "",
+  },
+  {
+    icon: "paypal.png",
+    link: "",
+  },
+  {
+    icon: "american-express.png",
+    link: "",
+  },
+];
 
 export const welcomeEmailForFan = `
 <!DOCTYPE html>
@@ -122,7 +122,7 @@ export const welcomeEmailForFan = `
 
 </body>
 </html>
-`
+`;
 
 export const welcomeEmailForCreator = `<!DOCTYPE html>
 <html lang="en">
@@ -221,4 +221,4 @@ export const welcomeEmailForCreator = `<!DOCTYPE html>
 
 </body>
 
-</html>`
+</html>`;
